@@ -8,7 +8,7 @@ Jobin uses a candidate’s publicly accessible personal and professional data to
 It essentially provides the company and the user, a company index to know about the work culture, structure, skill sets,and mindsets for
 the company.
 
-###### So, use Jobin to know about the company you have been dreamning to work to!
+##### So, use Jobin to know about the company you have been dreaming to work to!
 
 Jobin uses the basis of the Problem Statement of Friend Affinity Finder to suggest a user whether its suitable for him/her to work for a particular company based on a comparison with the work culture, skill sets, mindsets of the already working employees.
 Jobin essentially uses the IBM Watson’s Personality Insights Service to gather personal and professional information about a candidate and already employed people from the publicly accessible data available. 
