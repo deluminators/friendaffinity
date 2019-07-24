@@ -39,6 +39,7 @@ Jobin classifies a user on suitability using Decision Trees which are trained by
 - *pip install scipy*
 - *pip install matplotlib*
 - *pip install scikit-learn*
+- *pip install pandas*
 
 **For using the selenium framework, you should have Google Chrome Web Browser installed in your system, furthermore download the following (ChromeDriver) in your application's directiory to run it successfully::**
 (For Chrome)http://chromedriver.chromium.org/downloads
