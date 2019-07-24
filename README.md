@@ -25,7 +25,7 @@ Jobin classifies a user on suitability using Decision Trees which are trained by
 7. For a candidate's search, they need to go to the user's page from the home page, and then provide the details about them and name of the company they are looking upon, after providing all details, the user's personality, professionality, suitability status and suitability index is shown which suggests whether he/she is suitable for the job.
 
 
-### Packages needed to be installed before running the application
+### Packages need to be installed before running the application
 ##### Run the following commands in your terminal with administrator access
 - *pip install selenium*
 - *pip install python-bs4*
