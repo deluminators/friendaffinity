@@ -14,10 +14,12 @@ Jobin uses the basis of the Problem Statement of Friend Affinity Finder to sugge
 Jobin essentially uses the IBM Watson’s Personality Insights Service to gather personal and professional information about a candidate and already employed people from the publicly accessible data available. 
 Jobin classifies a user on suitability using Decision Trees which are trained by the data of already employed people.
 
+Jobin uses the concepts of Friend Affinity Finder to compare the commonality between a company's employees and the candidates seeking the jobs suggesting whether it will be suitable for having the job.
+
 
 ## Steps to use:
 1. Clone the repository or download it into your system.
-2. Extract all the files present in compressed format and move into the directory of Friend_Affinity_Finder\Friend_Affinity_Finder\Friend_Affinity
+2. Extract all the files present in compressed format and move into the directory of Jobin Web Application\Friend_Affinity_Finder\Friend_Affinity
 3. Run the python script manage.py in your terminal as "*python manage.py runserver*"
 4. The Web App launches where it will be asked to either company info or a users.
 5. For companies entering their info, they need to go to the company registration page, where they will input the details about their copany and then they need to provide details about the social media handles of their employees as asked. After submitting all these data, the company index will be displayed which is a standardised score based on their employee data.
