@@ -48,7 +48,7 @@ Jobin uses the concepts of Friend Affinity Finder to compare the commonality bet
 
 
 For viewing the documentation, go to idea.docx
-For viewing the project presentation go to jobin presentation.pdf
+For viewing the project presentation go to Jobin PPT.pdf
 For viewing the undertaking document go to undertaking.docx
 For viewing the Python Codes used go to Python Codes
 For viewing the Web Applcation's codes used go to Friend_Affinity_FinderV2.0
